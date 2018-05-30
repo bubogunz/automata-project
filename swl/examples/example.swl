@@ -1,5 +1,5 @@
 begin
-		declare o
+    declare o
     let a be 5
     let b be 10
     add 3 to b
